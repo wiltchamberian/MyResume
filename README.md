@@ -51,7 +51,7 @@ GPA: **6.35 / 7.0**
 ### Game & Graphics Tools
 - **Unity**
 - Godot *(currently learning)*
-- Krita, Inkscape
+- Krita, Inkscape, Blender
 
 ### Development Tools & Platforms
 - Git
